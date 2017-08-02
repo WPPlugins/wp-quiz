@@ -1,0 +1,680 @@
+# Copyright (C) 2016 MyThemeShop
+# This file is distributed under the same license as the MyThemeShop Base Theme package.
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Quiz by MyThemeShop\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/style\n"
+"POT-Creation-Date: 2016-11-16 21:35+0530\n"
+"PO-Revision-Date: 2016-11-16 21:35+0530\n"
+"Last-Translator: MyThemeShop <support-team@mythemeshop.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;_x\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../wp-quiz.php:151 ../wp-quiz.php:152 ../wp-quiz.php:153 ../wp-quiz.php:154
+msgid "WP Quiz"
+msgstr ""
+
+#: ../wp-quiz.php:155
+msgid "All Quizzes"
+msgstr ""
+
+#: ../wp-quiz.php:156
+msgid "Search Quizzes"
+msgstr ""
+
+#: ../wp-quiz.php:157 ../inc/class-page-config.php:327
+msgid "Add New"
+msgstr ""
+
+#: ../wp-quiz.php:158
+msgid "Add New WP Quiz"
+msgstr ""
+
+#: ../wp-quiz.php:159
+msgid "New Quiz"
+msgstr ""
+
+#: ../wp-quiz.php:160
+msgid "View Quiz"
+msgstr ""
+
+#: ../wp-quiz.php:161
+msgid "Edit Quiz"
+msgstr ""
+
+#: ../wp-quiz.php:162
+msgid "No Quizzes Found."
+msgstr ""
+
+#: ../wp-quiz.php:163
+msgid "WP Quiz not found in Trash."
+msgstr ""
+
+#: ../wp-quiz.php:164
+msgid "Parent Quiz"
+msgstr ""
+
+#: ../wp-quiz.php:169
+msgid "Holds the quizzes and their data."
+msgstr ""
+
+#: ../wp-quiz.php:207
+msgid "Quiz"
+msgstr ""
+
+#: ../wp-quiz.php:224
+msgid "Trivia"
+msgstr ""
+
+#: ../wp-quiz.php:225
+msgid "Personality"
+msgstr ""
+
+#: ../wp-quiz.php:226
+msgid "Flip Cards"
+msgstr ""
+
+#: ../wp-quiz.php:236 ../inc/class-page-config.php:229
+#: ../inc/class-wp-quiz.php:142
+msgid "Facebook"
+msgstr ""
+
+#: ../wp-quiz.php:237 ../inc/class-page-config.php:230
+#: ../inc/class-wp-quiz.php:145
+msgid "Twitter"
+msgstr ""
+
+#: ../wp-quiz.php:238 ../inc/class-page-config.php:231
+msgid "Google +"
+msgstr ""
+
+#: ../wp-quiz.php:239 ../inc/class-page-config.php:232
+#: ../inc/class-wp-quiz.php:151
+msgid "VK"
+msgstr ""
+
+#: ../wp-quiz.php:310
+msgid "Select Quiz Type"
+msgstr ""
+
+#: ../wp-quiz.php:311
+msgid "Content"
+msgstr ""
+
+#: ../wp-quiz.php:312
+msgid "Styling"
+msgstr ""
+
+#: ../wp-quiz.php:313
+msgid "Settings"
+msgstr ""
+
+#: ../wp-quiz.php:314
+msgid "Questions"
+msgstr ""
+
+#: ../wp-quiz.php:315
+msgid "Add Question"
+msgstr ""
+
+#: ../wp-quiz.php:316
+msgid "Edit Question"
+msgstr ""
+
+#: ../wp-quiz.php:317
+msgid "Results"
+msgstr ""
+
+#: ../wp-quiz.php:318
+msgid "Add Result"
+msgstr ""
+
+#: ../wp-quiz.php:319
+msgid "Edit Result"
+msgstr ""
+
+#: ../wp-quiz.php:320
+msgid "Add Answer"
+msgstr ""
+
+#: ../wp-quiz.php:321
+msgid "Edit Answer"
+msgstr ""
+
+#: ../wp-quiz.php:322
+msgid "Add Explanation"
+msgstr ""
+
+#: ../wp-quiz.php:323
+msgid "Edit Explanation"
+msgstr ""
+
+#: ../wp-quiz.php:324
+msgid "Edit"
+msgstr ""
+
+#: ../wp-quiz.php:325
+msgid "Delete"
+msgstr ""
+
+#: ../wp-quiz.php:326
+msgid "Title"
+msgstr ""
+
+#: ../wp-quiz.php:327
+msgid "Result"
+msgstr ""
+
+#: ../wp-quiz.php:328
+msgid "Answer"
+msgstr ""
+
+#: ../wp-quiz.php:329
+msgid "Explanation"
+msgstr ""
+
+#: ../wp-quiz.php:330
+msgid "Image"
+msgstr ""
+
+#: ../wp-quiz.php:331
+msgid "Front Image"
+msgstr ""
+
+#: ../wp-quiz.php:332
+msgid "Back Image"
+msgstr ""
+
+#: ../wp-quiz.php:333
+msgid "Back Image Description"
+msgstr ""
+
+#: ../wp-quiz.php:334
+msgid "Image Credit"
+msgstr ""
+
+#: ../wp-quiz.php:335
+msgid "Media Type"
+msgstr ""
+
+#: ../wp-quiz.php:336
+msgid "Youtube/Vimeo/Custom URL"
+msgstr ""
+
+#: ../wp-quiz.php:337
+msgid "Image Placeholder"
+msgstr ""
+
+#: ../wp-quiz.php:338
+msgid "Correct Answer?"
+msgstr ""
+
+#: ../wp-quiz.php:339
+msgid "Minimum Correct"
+msgstr ""
+
+#: ../wp-quiz.php:340
+msgid "Maximum Correct"
+msgstr ""
+
+#: ../wp-quiz.php:341
+msgid "Minimum Score"
+msgstr ""
+
+#: ../wp-quiz.php:342
+msgid "Maximum Score"
+msgstr ""
+
+#: ../wp-quiz.php:343
+msgid "Description"
+msgstr ""
+
+#: ../wp-quiz.php:344
+msgid "Short Description"
+msgstr ""
+
+#: ../wp-quiz.php:345
+msgid "Long Description"
+msgstr ""
+
+#: ../wp-quiz.php:346
+msgid "Points"
+msgstr ""
+
+#: ../wp-quiz.php:347
+msgid "(Association: 0-no, 1-normal, 2-strong)"
+msgstr ""
+
+#: ../wp-quiz.php:348
+msgid "Cancel"
+msgstr ""
+
+#: ../wp-quiz.php:349 ../inc/class-page-config.php:122
+msgid "Save Changes"
+msgstr ""
+
+#: ../wp-quiz.php:350
+msgid "Video/Custom Embed"
+msgstr ""
+
+#: ../wp-quiz.php:351
+msgid "No Media"
+msgstr ""
+
+#: ../wp-quiz.php:352 ../wp-quiz.php:506 ../inc/class-page-config.php:102
+msgid "General Settings"
+msgstr ""
+
+#: ../wp-quiz.php:353 ../inc/class-page-config.php:251
+msgid "Randomize Questions"
+msgstr ""
+
+#: ../wp-quiz.php:354 ../inc/class-page-config.php:259
+msgid "Randomize Answers"
+msgstr ""
+
+#: ../wp-quiz.php:355 ../inc/class-page-config.php:192
+msgid "Restart Questions"
+msgstr ""
+
+#: ../wp-quiz.php:356 ../inc/class-page-config.php:200
+msgid "Promote the plugin"
+msgstr ""
+
+#: ../wp-quiz.php:357 ../inc/class-page-config.php:267
+msgid "Show embed code toggle"
+msgstr ""
+
+#: ../wp-quiz.php:358 ../inc/class-page-config.php:225
+msgid "Share buttons"
+msgstr ""
+
+#: ../wp-quiz.php:359 ../inc/class-page-config.php:289
+msgid "Countdown timer [Seconds/question]"
+msgstr ""
+
+#: ../wp-quiz.php:360
+msgid "(Works only when multiple page layout is selected)"
+msgstr ""
+
+#: ../wp-quiz.php:361 ../inc/class-page-config.php:217
+msgid "Auto scroll to next question (applies to one page layout)"
+msgstr ""
+
+#: ../wp-quiz.php:362
+msgid "Force action to see results"
+msgstr ""
+
+#: ../wp-quiz.php:363 ../inc/class-page-config.php:298
+msgid "No Action"
+msgstr ""
+
+#: ../wp-quiz.php:364 ../inc/class-page-config.php:299
+msgid "Capture Email"
+msgstr ""
+
+#: ../wp-quiz.php:365 ../inc/class-page-config.php:300
+msgid "Facebook Share"
+msgstr ""
+
+#: ../wp-quiz.php:366 ../inc/class-page-config.php:275
+msgid "Show Ads"
+msgstr ""
+
+#: ../wp-quiz.php:367
+msgid "Ads after every nth question"
+msgstr ""
+
+#: ../wp-quiz.php:368
+msgid "Ad Codes"
+msgstr ""
+
+#: ../wp-quiz.php:369
+msgid "Customize Layout and Colors"
+msgstr ""
+
+#: ../wp-quiz.php:370
+msgid "Questions layout"
+msgstr ""
+
+#: ../wp-quiz.php:371
+msgid "Show all"
+msgstr ""
+
+#: ../wp-quiz.php:372
+msgid "Multiple pages"
+msgstr ""
+
+#: ../wp-quiz.php:373
+msgid "Choose skin"
+msgstr ""
+
+#: ../wp-quiz.php:374
+msgid "Traditional Skin"
+msgstr ""
+
+#: ../wp-quiz.php:375
+msgid "Modern Flat Skin"
+msgstr ""
+
+#: ../wp-quiz.php:376
+msgid "Progress bar color"
+msgstr ""
+
+#: ../wp-quiz.php:377
+msgid "Font color"
+msgstr ""
+
+#: ../wp-quiz.php:378
+msgid "Background color"
+msgstr ""
+
+#: ../wp-quiz.php:379
+msgid "Animation In"
+msgstr ""
+
+#: ../wp-quiz.php:380
+msgid "Animation Out"
+msgstr ""
+
+#: ../wp-quiz.php:381
+msgid "Quiz Size"
+msgstr ""
+
+#: ../wp-quiz.php:382
+msgid "Custom"
+msgstr ""
+
+#: ../wp-quiz.php:383
+msgid "Custom Size"
+msgstr ""
+
+#: ../wp-quiz.php:384
+msgid "Width:"
+msgstr ""
+
+#: ../wp-quiz.php:385
+msgid "Height:"
+msgstr ""
+
+#: ../wp-quiz.php:386
+msgid "set width and height in px"
+msgstr ""
+
+#: ../wp-quiz.php:387
+msgid "Full Width (responsive)"
+msgstr ""
+
+#: ../wp-quiz.php:388
+msgid "Answers"
+msgstr ""
+
+#: ../wp-quiz.php:389
+msgid "Upload"
+msgstr ""
+
+#: ../wp-quiz.php:390
+msgid "Upload Image"
+msgstr ""
+
+#: ../wp-quiz.php:391
+msgid "Preview"
+msgstr ""
+
+#: ../wp-quiz.php:392
+msgid "Preview Image"
+msgstr ""
+
+#: ../wp-quiz.php:393
+msgid "Preview Video/Media"
+msgstr ""
+
+#: ../wp-quiz.php:395 ../inc/class-page-config.php:171
+#: ../inc/class-page-config.php:174 ../inc/class-page-config.php:251
+#: ../inc/class-page-config.php:259 ../inc/class-page-config.php:267
+#: ../inc/class-page-config.php:275 ../inc/class-page-config.php:283
+#: ../inc/class-page-config.php:295 ../inc/class-page-config.php:327
+#: ../inc/class-page-config.php:341
+msgid "Pro feature"
+msgstr ""
+
+#: ../wp-quiz.php:396 ../wp-quiz.php:397
+msgid "Buy WP Quiz Pro"
+msgstr ""
+
+#: ../wp-quiz.php:398
+msgid "Like WP Quiz Plugin? You will LOVE WP Quiz Pro!"
+msgstr ""
+
+#: ../wp-quiz.php:399
+msgid "Please add the Results and save the draft before adding questions"
+msgstr ""
+
+#: ../wp-quiz.php:400
+msgid ""
+"New Quiz type Swiper, Show Ads in the quizzes, Countdown Timer, Open graph "
+"integration, Player tracking, Force users to Subscribe to see the results "
+"and much more."
+msgstr ""
+
+#: ../wp-quiz.php:414
+msgid "Quiz Title"
+msgstr ""
+
+#: ../wp-quiz.php:421
+msgid "Shortcode:"
+msgstr ""
+
+#: ../wp-quiz.php:474
+msgid "Quiz Name"
+msgstr ""
+
+#: ../wp-quiz.php:475
+msgid "Shortcode"
+msgstr ""
+
+#: ../wp-quiz.php:476
+msgid "Quiz type"
+msgstr ""
+
+#: ../wp-quiz.php:477
+msgid "Date"
+msgstr ""
+
+#: ../wp-quiz.php:518 ../inc/class-page-import-export.php:96
+msgid "Import/Export"
+msgstr ""
+
+#: ../wp-quiz.php:586 ../wp-quiz.php:592
+msgid "Cheating, huh?"
+msgstr ""
+
+#: ../wp-quiz.php:675
+msgid ""
+"WP Quiz requires PHP version 5.4.0 with spl extension or greater and "
+"WordPress 3.4 or greater."
+msgstr ""
+
+#: ../wp-quiz.php:681
+msgid "Please deactivate WP Quiz Pro plugin"
+msgstr ""
+
+#: ../inc/class-flip-quiz.php:47
+msgid "Click to Flip"
+msgstr ""
+
+#: ../inc/class-flip-quiz.php:64 ../inc/class-wp-quiz.php:140
+msgid "Share your Results :"
+msgstr ""
+
+#: ../inc/class-page-config.php:63
+msgid "Settings saved"
+msgstr ""
+
+#: ../inc/class-page-config.php:86
+msgid "Google Analytics"
+msgstr ""
+
+#: ../inc/class-page-config.php:87
+msgid "Default Quiz Settings"
+msgstr ""
+
+#: ../inc/class-page-config.php:88
+msgid "Ad Code"
+msgstr ""
+
+#: ../inc/class-page-config.php:89
+msgid "Global"
+msgstr ""
+
+#: ../inc/class-page-config.php:171
+msgid "Profile Name"
+msgstr ""
+
+#: ../inc/class-page-config.php:174
+msgid "Tracking ID"
+msgstr ""
+
+#: ../inc/class-page-config.php:200
+#, php-format
+msgid "Earn 70% commision on every sale by referring your friends and readers."
+msgstr ""
+
+#: ../inc/class-page-config.php:208
+msgid "Signup"
+msgstr ""
+
+#: ../inc/class-page-config.php:208
+msgid " and get your referral ID (username) if you don't have it already!"
+msgstr ""
+
+#: ../inc/class-page-config.php:208
+msgid "Check your affiliate earning by following "
+msgstr ""
+
+#: ../inc/class-page-config.php:208
+msgid "this link"
+msgstr ""
+
+#: ../inc/class-page-config.php:211
+msgid "MyThemeShop username"
+msgstr ""
+
+#: ../inc/class-page-config.php:237
+msgid ""
+"Enable or disable Open Graph and Twitter Cards meta tags in single quiz head "
+"tag."
+msgstr ""
+
+#: ../inc/class-page-config.php:245
+msgid "Facebook App ID"
+msgstr ""
+
+#: ../inc/class-page-config.php:245
+#, php-format
+msgid ""
+"Learn how to create Facebook App ID <a href=\"%s\" target=\"_blank\">here</"
+"a>."
+msgstr ""
+
+#: ../inc/class-page-config.php:283
+msgid "Show Ads after every nth question"
+msgstr ""
+
+#: ../inc/class-page-config.php:289
+msgid "Works only on trivia quiz type when multiple page layout is selected"
+msgstr ""
+
+#: ../inc/class-page-config.php:289
+msgid " Pro feature"
+msgstr ""
+
+#: ../inc/class-page-config.php:295
+msgid "Force action to see the results"
+msgstr ""
+
+#: ../inc/class-page-config.php:341
+msgid "Enable or disable players tracking."
+msgstr ""
+
+#: ../inc/class-page-import-export.php:32
+msgid "Quiz imported successfully"
+msgstr ""
+
+#: ../inc/class-page-import-export.php:34
+msgid "Failed to import Quiz"
+msgstr ""
+
+#: ../inc/class-page-import-export.php:82
+msgid "Import and Export Quizzes"
+msgstr ""
+
+#: ../inc/class-page-import-export.php:138
+msgid "Import"
+msgstr ""
+
+#: ../inc/class-page-import-export.php:139
+msgid "Export"
+msgstr ""
+
+#: ../inc/class-page-import-export.php:154
+msgid "Import Demo"
+msgstr ""
+
+#: ../inc/class-page-import-export.php:158
+msgid "Import Quiz File"
+msgstr ""
+
+#: ../inc/class-page-import-export.php:163
+msgid "Import File"
+msgstr ""
+
+#: ../inc/class-page-import-export.php:168
+msgid "To use this feature please upgrade to pro version."
+msgstr ""
+
+#: ../inc/class-personality-quiz.php:120 ../inc/class-trivia-quiz.php:122
+msgid "Continue &gt;&gt;"
+msgstr ""
+
+#: ../inc/class-wp-quiz.php:148
+msgid "Google+"
+msgstr ""
+
+#: ../inc/class-wp-quiz.php:171
+msgid "Powered by "
+msgstr ""
+
+#: ../inc/class-wp-quiz.php:171
+msgid "WordPress Quiz Plugin"
+msgstr ""
+
+#: ../inc/class-wp-quiz.php:184
+msgid "PLAY AGAIN !"
+msgstr ""
+
+#: ../inc/class-wp-quiz.php:205
+msgid "Correct !"
+msgstr ""
+
+#: ../inc/class-wp-quiz.php:206
+msgid "Wrong !"
+msgstr ""
+
+#: ../inc/class-wp-quiz.php:207
+#, php-format
+msgid "You got %%score%% out of %%total%%"
+msgstr ""
+
+#: ../inc/class-wp-quiz.php:208
+#, php-format
+msgid "I got %%score%% out of %%total%%, and you?"
+msgstr ""
